@@ -3,4 +3,4 @@ title: About
 permalink: /about/
 ---
 
-This is a simple blog about all the web conferences I like to attend.
+This is a blog made to improve my skill with Jekyll
